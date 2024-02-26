@@ -6,6 +6,9 @@ tags:
  - music
  - clarinet
 ---
+
+The wonderful, tragic and happy tale of my first instrument and where I am today.
+
 ![Jazz Cats](/assets/jazz_cats.png)
 > Generated with Estilovintedois
 >
@@ -32,14 +35,14 @@ The wind band played mostly jazz and the orchestra mostly classical pieces, so i
 ### The crime!
 In my school if you were a boarder and learning an instrument your 30-minute daily practice was most likely just before or just after breakfast.
 This was because we were all young children and without parental supervision or an enforced practice time we probably wouldn't have done it.
-My practice time was 0715 to 0745 Monday to Friday. I cant imagine this nowadays because firstly I have insomnia so getting up at that time every day is a bad joke, and secondly I have neighbours that I like.
+My practice time was 0715 to 0745 Monday to Saturday. I cant imagine this nowadays because firstly I have insomnia so getting up at that time every day is a bad joke, and secondly I have neighbours that I like.
 
 One day I came down to practice, collected my clarinet from the storage area and went into my assigned practice room.
 Upon opening the case I only felt horror and dismay as someone had smashed all the keys of the clarinet and there was no way it could be played and seemed like it would be impossible to ever play again (more on this later).
 
 ### Parents to the rescue
 The school probably knew who it was, it wasn't the first time the clarinet had been sabotaged (once before the school music competition someone had cut all the cork off the different sections (Bastard!)).
-However it was the kind of school where the wealthier or more connected the parents were the more likely the school was to side with them so nothing ever got done about it.
+Unfortunately it was the kind of school where the wealthier or more connected the parents were the more likely the school was to side with them so nothing ever got done about it.
 My parent seeing how sad I was that I was unable to continue learning decided to buy me my own new clarinet.
 
 ## The new clarinet
@@ -80,7 +83,7 @@ Even though I hadn't been enjoying it I was really annoyed with the situation, a
 
 ### The decision
 Not long after quiting the orchestra I realised that I was not playing the clarinet anymore, I was performing a chore.
-I never practiced and when I did play it there was not fun, no wonder, no feeling of freedom like when I used to jam with my old teacher.
+I never practiced and when I did play it there was no fun, no wonder, no feeling of freedom like when I used to jam with my old teacher.
 With a heavy heart I stopped my clarinet lessons and put it away saying that I would try again in a few years. Those few years turned out to be a lot longer than I ever thought they would be.
 
 ## Meanwhile
@@ -92,7 +95,7 @@ Over the next two years I tried a few instruments, some I took lessons for and o
 Here is the list:
 - Flute: Played one we had at home and was never able to get far with it, probably because I never had lessons it just took long to make any progress with it.
 - Drums: Used the school drum-kit, while it was fun and cathartic I never took lessons and there was no magic there.
-- Electric Guitar: I used my sister guitar and took lessons at school. I had a good teacher, but we focussed more on learning to emulate other players and not my own skill or style so this only lasted a year.
+- Electric Guitar: I used my sister's guitar and took lessons at school. I had a good teacher, but we focussed more on learning to emulate other players and not my own skill or style so this only lasted a year.
 - Electric Violin: For my Design and Technology: resistant materials A-Level I made an electric violin (because I could think of anything else to make). I was half way though making it when I realised I should probably take some lessons so that I could actually play the thing. The teacher was really boring and there was no spark so while I still have my violin I haven't played it since 2005.
 - Keyboard: I always wanted to also learn the piano / keyboard but never took lessons, I used to go use the school keyboards to try and learn but the left hand / bass clef was too much to try and learn while also studying my A-Levels so this never progressed.
 
@@ -101,9 +104,34 @@ In 2016, I had emailed a local cello teacher asking about lessons and after a fe
 I finished my first lesson and was hooked immediately. The spark was back, the struggle to learn bass clef after being treble for so long was real but playing the instrument I found so much joy.
 Where the clarinet was and expression of freedom for me, the cello was a more meditative almost zen like experience. From the start I explained that I had no interest in grades and was only playing for my own enjoyment and my teacher was fine with that.
 
-Last year (2022) I finally bought my own cello after renting one from my teacher for so long. I wanted to play electric cello and after much research (like the clarinet I was unable to try one before buying it) I picked out the NS Design CR4 with a carbon fibre bow from Kolstein.
+Last year (2022) I finally bought my own cello after renting one from my teacher for so long. I wanted to play electric cello and after much research (like the clarinet I was unable to try one before buying it) I picked out the [NS Design CR4](https://thinkns.com/instrument/ns-design-electric-cello/ns-design-electric-cello-cr/) with a carbon fibre bow from [Kolstein](https://kolstein.com/).
 Unfortunately, the cello was very expensive, and I was only able to afford a small practice amp (battery powered) until later in the year and while it was just about sufficient for playing at home with headphones it was really lacking the power for the bass notes on the cello.
 A friend who plays the electric guitar was visiting and brought his amp, cabinet and pedals, so he could practice for a gig and was happy for me to try them and the sound was phenomenal. Very quickly I had ordered my own amplifier, the [Victory V4 the Jack](https://www.victoryamps.com/product/v4-the-jack-guitar-amp/) and cabinet [Victory 12 inch Vintage](https://www.victoryamps.com/product/v112-v/).
 Hopefully my neighbors are not too annoyed about that, even with the amp turned way down it is very loud.
 
-##
+## The Clarinet returns
+After moving house and finding my old clarinet in its case I decided that now would be a good time to get it out and see if I could still play it and if it could recreate the magic I felt when I was younger. Sadly this had to be put on hold because due to the clarinet sitting in its case for 20 years it needed a lot of work to make it playable again.
+
+### The refurbishment
+Fortunately Cambridge is just the right side of odd as to have a dedicated woodwind shop called [Woodwind & Reed](https://www.wwr.co.uk/) near the town centre (given how rare music shops are at all these days that is very lucky). I took my clarinet down there and explained what had happened to it over the years and asked them to give it a full service and repair.
+
+The repair and refurbishment needed was almost a complete overhaul of the instrument. The cork all needed replacing, the mouthpiece was almost a complete write-off and needed a deep clean, the finish had to be stripped off and re-applied, the silver keys had to be realigned and re-plated, it needed to be flushed, and all the pads needed replacing. While this much work wasn't unexpected it cost almost a third of the initial price of the clarinet to do.
+
+I returned a week later, picked up my instrument, some reeds, and a new stand for it and took it home.
+
+![The repaired clarinet](/assets/clarinet.jpg)
+
+### The first day
+Having got my clarinet set up with a new reed and ligature, I dug out my old music and was trying to decide what to play as I warmed up the instrument. To my surprise I started playing some pieces from when I was doing my grades, breath control was hard, and it felt a lot harder to blow than I remembered but my muscle memory was sufficient for me ton hit all the notes to Tequila Sunrise, In the Hall of the Mountain King, and Across the Stars. This left me feeling elated and out of breath (that's a practice thing).
+
+### Today
+As it stands now in my living room I have my clarinet, my cello and my electric guitar all on stands ready to play at a moments notice. While I still lean to the cello to just jam or to practice, there is something amazing about just picking up the clarinet and just wandering down memory lane and jamming with some jazz or one of the pieces from my childhood like one of the Flanders and Swan songs.
+
+### Tomorrow
+My future plans for music do include an electric violin (bought not made) so I will post here when that decision is made.
+
+My plan for my clarinet will always be to enjoy it, I will not take lessons or grades. It is an instrument that I play for myself to enjoy and that is all that matters in that regard. It is an attitude I share across all the instruments that enjoyment must come first, I learned that lesson well as mentioned above.
+
+At this point I have not bought clarinet music since the early 2000s, so I am on the lookout for anything that catches my eye (same with the cello). The reel book was recommended to me by a former colleague, and I will try and get a copy of that for all of my instruments.
+
+Until then, I will sign off here and leave with this: It doesn't matter how good you are at music, everyone is terrible when they start, It is not too late or too early to learn but just remember to always ensure you play for the right reasons, have fun, entertain your friends, annoy people (im looking at you bagpipe players) or be a badass (marching band enthusiasts).

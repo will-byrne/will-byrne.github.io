@@ -28,3 +28,5 @@ if RUBY_PLATFORM =~ /linux-musl/
   gem "jekyll-sass-converter", "~> 2.0"
 end
 
+
+gem "json", "~> 2.7"
