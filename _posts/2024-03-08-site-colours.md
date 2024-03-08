@@ -55,6 +55,7 @@ There are some colours that I spent a long time tracking down only to discover t
 
 ## Rouge
 Jekyll used [Kramdown](https://kramdown.gettalong.org/) to convert its `markdown` to `html` and Kramdown uses [Rouge](https://rouge.jneen.net/) to handle the syntax highlighting of both block and inline code blocks. There are some themes that can be used simply but none of those matched the Catppuccin theme that I was now using. This meant that I had to generate a stylesheet using the `Rougify` gem and alter it to match the new style. The only problem with this is the classnames it uses were not very clear on what they were for, so it took a lot of googling to find a [page](https://github.com/rouge-ruby/rouge/blob/master/lib/rouge/token.rb#L75) that had a better explanation.
+
 Here is a snippet of code to show what I mean:
 ```scss
 .highlight .k, .highlight .kd, .highlight .kv {
