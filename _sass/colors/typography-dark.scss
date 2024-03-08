@@ -16,6 +16,7 @@
   --label-color: rgb(180, 190, 254);
   --blockquote-border-color: rgb(69, 71, 90);
   --blockquote-text-color: rgb(186, 194, 222);
+  --blockquote-bg-color: rgb(30, 30, 46);
   --link-color: rgb(137, 180, 250);
   --link-underline-color: rgb(137, 180, 250);
   --button-bg: rgb(69, 71, 90);
@@ -51,7 +52,7 @@
   --topbar-text-color: var(--text-color);
   --search-border-color: rgb(69, 71, 90);
   --search-icon-color: var(--text-color);
-  --input-focus-border-color: rgb(203, 166, 247);
+  --input-focus-border-color: rgb(250, 179, 135);
 
   /* Home page */
   --post-list-text-color: var(--text-color);
@@ -60,15 +61,15 @@
 
   /* Posts */
   --toc-highlight: rgb(166, 227, 161);
-  --tag-hover: rgb(116, 199, 236);
+  --tag-hover: rgb(17, 17, 27);
   --tb-odd-bg: rgb(30, 30, 46); /* odd rows of the posts' table */
   --tb-even-bg: rgb(31, 31, 34); /* even rows of the posts' table */
   --tb-border-color: var(--tb-odd-bg);
   --footnote-target-bg: rgb(63, 81, 181);
   --btn-share-color: var(--text-color);
-  --btn-share-hover-color: rgb(245, 194, 231);
+  --btn-share-hover-color: rgb(250, 179, 135);
   --card-bg: rgb(30, 30, 46);
-  --card-hovor-bg: rgb(49, 50, 68);
+  --card-hovor-bg: rgb(17, 17, 27);
   --card-shadow: rgb(21, 21, 21, 0.72) 0 6px 18px 0,
   rgb(137, 135, 135, 0.24) 0 0 0 1px;
   --kbd-wrap-color: #6a6a6a;
