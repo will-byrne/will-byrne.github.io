@@ -13,6 +13,7 @@ My old iPad Pro finally kicked the bucket after 6 or so years of heavy use so I 
 - Drawing
 - Video analysis
 - Games?
+- AI Art Generation?
 
 ## Which iPad
 I took a look at the currently available iPads to see which one would be ideal for the above use cases:
