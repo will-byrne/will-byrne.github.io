@@ -57,3 +57,6 @@ The Magic Keyboard for the iPad is surprisingly nice to type with, it is slightl
 
 # Conclusion
 That is my small post written so I will now push the changes to GitHub and see what it does after posting it to the site, wish me luck.
+
+> Addendum:
+I have had to do some work on the shortcuts, the ones I made based of the blog mentioned above were a good starting point but I had to add in an extra couple of steps to check the width of the image before saving it and if necessary to resize it and so that my images are max width `1200px` to keep file size down. The image of Andromeda above was somewhere in the region of 4000 by 3800 pixels and was nearly 9MB now its 1200 by 1200 (ish) and 510KB.
