@@ -4,5 +4,7 @@ icon: fas fa-images
 order: 3
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# Gallery
+This is a collection of some of my AI art, mostly generated on my iPad.
+
+{% include image-gallery.html folder="/assets/ai" %}

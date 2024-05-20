@@ -9,7 +9,7 @@ tags:
 
 The wonderful, tragic and happy tale of my first instrument and where I am today.
 
-![Jazz Cats](/assets/jazz_cats.jpeg)
+![Jazz Cats](/assets/ai/jazz_cats.jpeg)
 > Generated with Estilovintedois
 >
 > prompt: cats, playing jazz, jazz club, hazy lighting, smoky, clarinet, saxophone, drums, double bass, disney, 4k
