@@ -5,7 +5,7 @@ date: 2024-05-17
 tags: [Blog, iPad, infrastructure]
 categories: [Blog]
 image:
-  path: "assets/iPad.PNG"
+  path: "assets/iPad.jpg"
   alt: "iPad Pro M4"
 ---
 
