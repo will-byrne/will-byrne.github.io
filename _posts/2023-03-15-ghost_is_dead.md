@@ -17,7 +17,7 @@ Having lost my previous setup I decided to look into something that was a bit mo
 Google was no help here, when searching for a new platform all I could find were adverts for `WordPress` which I refuse to use given prior experience.
 
 ## Enter Jekyll
-![Gothic London](/assets/gothic_london.png)
+![Gothic London](/assets/gothic_london.jpeg)
 > Generated with Estilovintedois
 >
 > prompt: estilovintedois, masterpiece, best quality, gothic, night, london, victorian, dr jekyll
