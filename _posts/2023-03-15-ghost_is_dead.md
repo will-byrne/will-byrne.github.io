@@ -4,8 +4,8 @@ title: The Ghost is dead
 categories:
 - Blog
 tags:
-- infrastructure
-- jekyll
+- Infrastructure
+- Jekyll
 date: 2023-03-15 20:39 +0000
 image:
   path: "assets/gothic_london.jpeg"

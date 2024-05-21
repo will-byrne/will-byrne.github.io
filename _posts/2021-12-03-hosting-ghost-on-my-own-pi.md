@@ -5,10 +5,10 @@ date: '2021-12-03 17:54:34'
 categories:
 - Blog
 tags:
-- infrastructure
-- ghost
-- lovecract
-- rasberry-pi
+- Infrastructure
+- Ghost
+- Lovecract
+- Rasberry-pi
 ---
 
 ![Unicorn Ghost](/assets/unicorn-ghost.jpg)

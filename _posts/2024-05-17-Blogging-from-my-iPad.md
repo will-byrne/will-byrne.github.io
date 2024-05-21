@@ -2,7 +2,7 @@
 layout: post
 title: Blogging from my iPad
 date: 2024-05-17
-tags: [Blog, iPad, infrastructure]
+tags: [Blog, iPad, Infrastructure]
 categories: [Blog]
 image:
   path: "assets/iPad.jpg"
