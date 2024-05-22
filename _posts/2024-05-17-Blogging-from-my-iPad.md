@@ -3,7 +3,7 @@ layout: post
 title: Blogging from my iPad
 date: 2024-05-17
 tags: [Blog, iPad, Infrastructure]
-categories: Blog, iPad
+categories: iPad
 image:
   path: "assets/iPad.jpg"
   alt: "iPad Pro M4"

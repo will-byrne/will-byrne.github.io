@@ -3,7 +3,7 @@ layout: post
 title: Site Colours
 date: 2024-03-08 15:09 +0000
 tags: [Blog, Style, Jekyll, Catppuccin]
-categories: [Blog, Style]
+categories: Blog
 excerpt_separator: <!--more-->
 image:
   path: "assets/img/catppuccin_rainbow.jpeg"

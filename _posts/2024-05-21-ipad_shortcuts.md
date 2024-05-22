@@ -3,7 +3,7 @@ layout: post
 title: iPad Shortcuts For Blogging
 date: 2024-05-21
 tags: [iPad, Blog, Shortcuts, Infrastructure]
-categories: Blog, iPad
+categories: iPad
 image:
   path: assets/shortcuts_screenshot.jpeg
   alt: Apple Shortcuts screenshot
