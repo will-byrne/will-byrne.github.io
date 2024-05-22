@@ -36,7 +36,7 @@ Shortcuts really surprised me here, there is an option to in the shortcut for me
 ### Problem
 For web, especially for decoration images, there is no need to use the more detailed and precise formats like PNG, however most of my AI art pictures are output in PNG format. Ideally I would like all of the pictures on the blog to be jpegs.
 
-### Solutions
+### Solution
 The same as the resize option, there is a shortcut to change the format of an image to a few different common formats, jpeg being one of them made this an easy change to make.
 
 ## Current Shortcuts
