@@ -5,8 +5,8 @@ date: 2024-05-21
 tags: [iPad, Blog, Shortcuts, Infrastructure]
 categories: Blog, iPad
 image:
-  path: “assets/shortcuts_screenshot.jpeg”
-  alt: “Apple Shortcuts screenshot”
+  path: assets/shortcuts_screenshot.jpeg
+  alt: Apple Shortcuts screenshot
 ---
 
 As mentioned in my [Blogging from my iPad]({{site.baseurl}}{% link _posts/2024-05-17-Blogging-from-my-iPad.md %}) I created a bunch of shortcuts in the provided iPad app based off the ones from [Marco Gomiero’s](https://www.marcogomiero.com/posts/2021/running-blog-ipad/) post. These shortcuts were a great place to start but were ultimately not quite sufficient for what I was wanting to do. Here is a log of my changes and what I ultimately ended up with.
