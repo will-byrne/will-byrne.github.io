@@ -27,7 +27,7 @@ There was no solution to the existing pictures however it is possible to share s
 
 ## Image size
 ### Problem
-The main shortcut I was using was to add images to the blog from the photos app on my iPad. This shortcut made no changes to the image and there was no way to make sure that it was web optimised. Having added a bunch of photos for my [iPad AI]({{site.baseurl}}{% link _posts/2024-05-18-iPad_ai.md %}) post I realised that many of the images were way too large to be web safe, many of them being between 10-40MB. 
+The main shortcut I was using was to add images to the blog from the photos app on my iPad. This shortcut made no changes to the image and there was no way to make sure that it was web optimised. Having added a bunch of photos for my [iPad AI]({{site.baseurl}}{% link _posts/2024-05-18-ipad_ai.md %}) post I realised that many of the images were way too large to be web safe, many of them being between 10-40MB. 
 
 ### Solution
 Shortcuts really surprised me here, there is an option to in the shortcut for media to alter the size of the image. Combined with an `if else` block to only resize images that are wider than 1200 (with an auto height to maintain aspect ration) it now works like a charm.
