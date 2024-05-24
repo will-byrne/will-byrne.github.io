@@ -93,7 +93,7 @@ These shortcuts are very much a work in progress and I currently plan to make th
 - [ ] Both the tags and categories should not be in the output if nothing is added, this will almost certainly never be the case it should still be handled.
 - [x] Add the option to pick a banner image when creating a new blog entry.
 - [x] Add a draft post
-- [ ] Publish a draft post
+- [x] Publish a draft post
 
 ## Conclusion
 Shortcuts are awesome, I like the automation and look forward to seeing what else I can do with them in the future, maybe one to notify me when a build and deploy has succeeded or failed on the github actions for the blog. There are probably a lot of silly things that can be done with the Phillips Hue lights. 
