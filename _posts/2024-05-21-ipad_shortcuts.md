@@ -88,12 +88,14 @@ These shortcuts are very much a work in progress and I currently plan to make th
 - [x] Collapse the images into a single shortcut with a choice of adding it as a banner or content image.
 - [x] Make it so the image shortcut can be used for the share menu on an image and if not only then open the photo picker.
 - [x] When adding a new blog post it is only currently using the date and not the time so I want to change this and output the time in case I post more than once in a day.
-- [ ] ~The categories can be `0-2` entries and rather than enter a string and add the separators manually while typing should use some form of list entry.~
-- [ ] ~Similarly there can be `0-n` tags on an article so this needs the same treatment.~
+- [ ] ~~The categories can be `0-2` entries and rather than enter a string and add the separators manually while typing should use some form of list entry.~~
+- [ ] ~~DSimilarly there can be `0-n` tags on an article so this needs the same treatment.~~
 - [x] Both the tags and categories should not be in the output if nothing is added, this will almost certainly never be the case it should still be handled.
 - [x] Add the option to pick a banner image when creating a new blog entry.
 - [x] Add a draft post
 - [x] Publish a draft post
+> Note:
+The two for list entries have been abandoned as that is very awkward to do in shortcuts so I will continue to just take an input and remember to format it correctly.
 
 ## Conclusion
 Shortcuts are awesome, I like the automation and look forward to seeing what else I can do with them in the future, maybe one to notify me when a build and deploy has succeeded or failed on the github actions for the blog. There are probably a lot of silly things that can be done with the Phillips Hue lights. 
