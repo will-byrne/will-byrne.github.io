@@ -90,7 +90,7 @@ These shortcuts are very much a work in progress and I currently plan to make th
 - [x] When adding a new blog post it is only currently using the date and not the time so I want to change this and output the time in case I post more than once in a day.
 - [ ] ~The categories can be `0-2` entries and rather than enter a string and add the separators manually while typing should use some form of list entry.~
 - [ ] ~Similarly there can be `0-n` tags on an article so this needs the same treatment.~
-- [ ] Both the tags and categories should not be in the output if nothing is added, this will almost certainly never be the case it should still be handled.
+- [x] Both the tags and categories should not be in the output if nothing is added, this will almost certainly never be the case it should still be handled.
 - [x] Add the option to pick a banner image when creating a new blog entry.
 - [x] Add a draft post
 - [x] Publish a draft post
