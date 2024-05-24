@@ -92,7 +92,7 @@ These shortcuts are very much a work in progress and I currently plan to make th
 - [ ] Similarly there can be `0-n` tags on an article so this needs the same treatment.
 - [ ] Both the tags and categories should not be in the output if nothing is added, this will almost certainly never be the case it should still be handled.
 - [x] Add the option to pick a banner image when creating a new blog entry.
-- [ ] Add a draft post
+- [x] Add a draft post
 - [ ] Publish a draft post
 
 ## Conclusion
