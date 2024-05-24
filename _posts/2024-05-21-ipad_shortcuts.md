@@ -94,6 +94,7 @@ These shortcuts are very much a work in progress and I currently plan to make th
 - [x] Add the option to pick a banner image when creating a new blog entry.
 - [x] Add a draft post
 - [x] Publish a draft post
+ 
 > Note:
 The two for list entries have been abandoned as that is very awkward to do in shortcuts so I will continue to just take an input and remember to format it correctly.
 
