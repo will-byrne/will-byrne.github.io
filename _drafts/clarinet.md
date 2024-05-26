@@ -3,21 +3,19 @@ layout: post
 title: Clarinet
 category: Music
 tags: 
- - music
- - clarinet
+ - Music
+ - Clarinet
+image:
+  path: “assets/jazz_cats.jpeg”
+  alt: “Generated with Estilovintedois: cats, playing jazz, jazz club, hazy lighting, smoky, clarinet, saxophone, drums, double bass, disney, 4k” 
 ---
 
 The wonderful, tragic and happy tale of my first instrument and where I am today.
 
-![Jazz Cats](/assets/jazz_cats.jpeg)
-> Generated with Estilovintedois
->
-> prompt: cats, playing jazz, jazz club, hazy lighting, smoky, clarinet, saxophone, drums, double bass, disney, 4k
-
 ## The Beginning
 I first started learning the clarinet when I was 7 after attending a wonderful performance by a Naval band at the Music of the Night at the dockyards in Plymouth.
 There was a clarinet solo halfway through that just spoke to me.
-It was a mesmerising piece that for the life of me I cannot remember how it sounds, but I remember how it was uplifting and just made me feel incredible.
+It was a mesmerising piece that for the life of me I cannot remember how it sounds, but I remember how it was so uplifting and just made me feel incredible.
 I started lessons the next term of school using my Grandad's old clarinet.
 
 ## The old clarinet
@@ -49,7 +47,7 @@ My parent seeing how sad I was that I was unable to continue learning decided to
 ### The search
 We spent a long time talking with my clarinet teacher and getting advice from other players about what clarinet to try and ended up deciding on a Buffet E11 (with a Vandoran b45 mouthpiece).
 
-That was the first problem, second was finding somewhere that sold one. This was in a time before my parents would even consider buying something online and there were no stores anywhere near where I lived that sold it.
+That was the first problem, the second was finding somewhere that sold one. This was in a time before my parents would even consider buying something online and there were no stores anywhere near where I lived that sold it.
 Fortunately our neighbors knew of a great mail order / phone order music company that would let you try an instrument for a month and then return it if it was unsuitable, so we ordered it from there.
 
 ### Arrival
@@ -58,7 +56,7 @@ I was so happy and fell in love with the instrument immediately and threw myself
 
 ## Lessons
 In my lessons I continued taking ABRSM exams until I had completed grade 4 and as I was playing with my teacher he asked me a question that changed how I looked at my clarinet playing.
-He asked me "why are you playing, what do you want to get out of it?" and I struggled to answer, my first thought was music grades, but I quickly realised that these meant nothing to me and all I wanted to do was jam.
+He asked me "why are you playing, what do you want to get out of it?" and I struggled to answer. My first thought was music grades, but I quickly realised that these meant nothing to me and all I wanted to do was jam and play songs that I liked the sound of or enjoyed playing.
 
 My lessons transitioned from playing pieces that I didn't really care for to pieces that I wanted to play and to just playing jazz in a more freestyle way. He was probably my favourite teacher for anything I ever learned.
 
@@ -73,12 +71,12 @@ In our first lesson he said I needed to do grades and that because we hadn't bee
 
 Needless to say we got along like nitroglycerin and a paint mixer. He was a terrible teacher, and I say that objectively looking back now that I am a trained coach.
 He spent whole lessons telling me why I was terrible and should listen to him if I wanted to get my grade 5 or higher (I was playing around grade 6/7 standard at this point) instead of actually teaching me anything.
-It was a lot of little things as well, like making me move to the other side of the music stand because the sun was reflecting off the sheet music, and he couldn't read it (I don't know if he thought I had built in sunglasses or something).
+It was a lot of little things as well, like making me move to the other side of the music stand because the sun was reflecting off the sheet music, and he couldn't read it (I don't know if he thought I had built in sunglasses or something, the man was an idiot so maybe).
 
 ### Secondary school orchestra
 My secondary school orchestra was run by the music teacher, and he didn't pick the most inspiring pieces to play. 
 The clarinets never had the melody or any leading parts to play, so I quickly got bored here, not because I was not in the spotlight but because the clarinet parts were dull and uninspiring.
-I decided to quit the orchestra when the music teachers daughter who was grade 2 was promoted to first chair even though she couldn't play the pieces and did not want to be first chair.
+I decided to quit the orchestra when the music teacher made someone else first chair despite them having only been learning an year, not being able to play the pieces, and not wanting to be first chair (I’m sure them being related to him had nothing to do with it).
 Even though I hadn't been enjoying it I was really annoyed with the situation, and it left me feeling tired of playing something that had brought be so much joy.
 
 ### The decision
@@ -93,16 +91,16 @@ Just because I had put up the clarinet did not mean I was done with music, I was
 ### Instruments
 Over the next two years I tried a few instruments, some I took lessons for and other I either borrowed a friends or used a school instrument.
 Here is the list:
-- Flute: Played one we had at home and was never able to get far with it, probably because I never had lessons it just took long to make any progress with it.
+- Flute: I played one we had at home and was never able to get far with it, probably because I never had lessons so it just took long to make any progress with it.
 - Drums: Used the school drum-kit, while it was fun and cathartic I never took lessons and there was no magic there.
 - Electric Guitar: I used my sister's guitar and took lessons at school. I had a good teacher, but we focussed more on learning to emulate other players and not my own skill or style so this only lasted a year.
-- Electric Violin: For my Design and Technology: resistant materials A-Level I made an electric violin (because I could think of anything else to make). I was half way though making it when I realised I should probably take some lessons so that I could actually play the thing. The teacher was really boring and there was no spark so while I still have my violin I haven't played it since 2005.
-- Keyboard: I always wanted to also learn the piano / keyboard but never took lessons, I used to go use the school keyboards to try and learn but the left hand / bass clef was too much to try and learn while also studying my A-Levels so this never progressed.
+- Electric Violin: For my Design and Technology: resistant materials A-Level I made an electric violin (because I could think of anything else to make). I was half way though making it when I realised I should probably take some lessons so that I could actually play the thing. The teacher was really boring and there was no spark again so while I still have my violin I haven't played it since 2005.
+- Keyboard: I always wanted to also play the piano / keyboard but never took lessons, I used to go use the school keyboards to try and teach myself but the left hand / bass clef was too much to try and learn while also studying my A-Levels so I never made much progress.
 
 ### Fast-forward to 2016
-In 2016, I had emailed a local cello teacher asking about lessons and after a few phone calls I had my first lesson. I had been listening to cello music for years, Bach's cello suite is one of my all-time favourite pieces of music along with Apocalyptica being one of my favourite bands.   
+In 2016, I had emailed a local cello teacher asking about lessons and after a few phone calls I had my first lesson. I had been listening to cello music for years, Bach's cello suite is one of my all-time favourite pieces of music along with Apocalyptica (metal on 4 cellos) being one of my favourite bands.   
 I finished my first lesson and was hooked immediately. The spark was back, the struggle to learn bass clef after being treble for so long was real but playing the instrument I found so much joy.
-Where the clarinet was and expression of freedom for me, the cello was a more meditative almost zen like experience. From the start I explained that I had no interest in grades and was only playing for my own enjoyment and my teacher was fine with that.
+Where the clarinet was an expression of freedom for me, the cello was a more meditative almost zen like experience. From the start I explained that I had no interest in grades and was only playing for my own enjoyment and my teacher was fine with that.
 
 Last year (2022) I finally bought my own cello after renting one from my teacher for so long. I wanted to play electric cello and after much research (like the clarinet I was unable to try one before buying it) I picked out the [NS Design CR4](https://thinkns.com/instrument/ns-design-electric-cello/ns-design-electric-cello-cr/) with a carbon fibre bow from [Kolstein](https://kolstein.com/).
 Unfortunately, the cello was very expensive, and I was only able to afford a small practice amp (battery powered) until later in the year and while it was just about sufficient for playing at home with headphones it was really lacking the power for the bass notes on the cello.
@@ -122,16 +120,16 @@ I returned a week later, picked up my instrument, some reeds, and a new stand fo
 ![The repaired clarinet](/assets/clarinet.jpg)
 
 ### The first day
-Having got my clarinet set up with a new reed and ligature, I dug out my old music and was trying to decide what to play as I warmed up the instrument. To my surprise I started playing some pieces from when I was doing my grades, breath control was hard, and it felt a lot harder to blow than I remembered but my muscle memory was sufficient for me ton hit all the notes to Tequila Sunrise, In the Hall of the Mountain King, and Across the Stars. This left me feeling elated and out of breath (that's a practice thing).
+Having got my clarinet set up with a new reed and ligature, I dug out my old music and was trying to decide what to play as I warmed up the instrument. To my surprise I started playing some pieces from when I was doing my grades, breath control was hard, and it felt a lot harder to blow than I remembered but my muscle memory was sufficient for me to hit all the notes to Tequila Sunrise, In the Hall of the Mountain King, and Across the Stars. This left me feeling elated and out of breath (that's a practice thing).
 
 ### Today
 As it stands now in my living room I have my clarinet, my cello and my electric guitar all on stands ready to play at a moments notice. While I still lean to the cello to just jam or to practice, there is something amazing about just picking up the clarinet and just wandering down memory lane and jamming with some jazz or one of the pieces from my childhood like one of the Flanders and Swan songs.
 
 ### Tomorrow
-My future plans for music do include an electric violin (bought not made) so I will post here when that decision is made.
+My future plans for music do include an electric violin (bought not made) and an electric piano so I will post here when that decision is made.
 
-My plan for my clarinet will always be to enjoy it, I will not take lessons or grades. It is an instrument that I play for myself to enjoy and that is all that matters in that regard. It is an attitude I share across all the instruments that enjoyment must come first, I learned that lesson well as mentioned above.
+My plan for my clarinet will always be to enjoy it, I will not take lessons or grades. It is an instrument that I play for myself to enjoy and that is all that matters in that regard. It is an attitude I share across all the instruments that enjoyment must come first, I learned that lesson well.
 
 At this point I have not bought clarinet music since the early 2000s, so I am on the lookout for anything that catches my eye (same with the cello). The reel book was recommended to me by a former colleague, and I will try and get a copy of that for all of my instruments.
 
-Until then, I will sign off here and leave with this: It doesn't matter how good you are at music, everyone is terrible when they start, It is not too late or too early to learn but just remember to always ensure you play for the right reasons, have fun, entertain your friends, annoy people (im looking at you bagpipe players) or be a badass (marching band enthusiasts).
+Until then, I will sign off here and leave with this: It doesn't matter how good you are at music, everyone is terrible when they start, It is not too late or too early to learn but just remember to always ensure you play for the right reasons: have fun, entertain your friends, annoy people (im looking at you bagpipe players), or be a badass (marching band enthusiasts).
