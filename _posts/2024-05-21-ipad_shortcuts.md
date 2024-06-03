@@ -13,7 +13,7 @@ As mentioned in my [Blogging from my iPad]({{site.baseurl}}{% link _posts/2024-0
 
 ## Duplication
 ### Problem
-The pictures provided on several sited for making shortcuts related to blogging were a useful starting point but trying to implement them myself was problematic as a lot of the icons and workflows had changed just enough to make it time consuming to find and convert them.
+The pictures provided on several sites for making shortcuts related to blogging were a useful starting point but trying to implement them myself was problematic as a lot of the icons and workflows had changed just enough to make it time consuming to find and convert them.
 
 ### Solution
 The only solution to this was to work through the available shortcut steps to find the closest ones that what I thought the picture was representing.
