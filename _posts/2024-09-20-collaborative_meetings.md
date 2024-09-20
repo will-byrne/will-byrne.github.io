@@ -3,7 +3,7 @@ layout: post
 title: Collaborative Meetings
 date: 2024-09-20 03:27
 tags: [teamwork, collaboration]
-category: Teamwork,
+category: Teamwork
 image:
   path: assets/ai/developers.jpeg
   alt: A group of developers having a meeting
