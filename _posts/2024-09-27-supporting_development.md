@@ -3,7 +3,8 @@ layout: post
 title: Supporting Each Others Development
 date: 2024-09-27
 tags: [teamwork, collaboration]
-category: Teamworkimage:
+category: Teamwork
+image:
   path: assets/ai/cat_and_fox_supporting.jpeg
   alt: Cat and Fox Supporting Each Other
 ---
