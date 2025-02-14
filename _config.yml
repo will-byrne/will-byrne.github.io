@@ -20,7 +20,7 @@ timezone:
 
 title: Will's Tech Blog # the main title
 
-tagline: Where madness and tech intersect   # it will display as the sub-title
+tagline: Tech, Music and Life   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A collection of my musings on tech, music and photography.
