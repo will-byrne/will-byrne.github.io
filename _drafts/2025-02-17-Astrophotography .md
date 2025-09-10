@@ -9,7 +9,7 @@ image:
   alt: Andromeda galaxy
 ---
 
-I started astrophotography as a hobby in 2018 with a friend. We initially went out with just a DSLR and a tripod and the images were a bit of a mess, turns out it’s actually quite complicated to do.
+I started astrophotography as a hobby in 2018 with a friend. We initially went out with just a DSLR and a tripod and the images were a bit of a mess, turns out it’s actually quite complicated to do. My gallery (of two pictures as of writing) can be found on [telescopious](telescopius link)
 
 # Star trackers / mounts
 ## Why a mount is needed
@@ -61,6 +61,8 @@ Refractors like the [Williams Optics Redcat 51](https://williamoptics.com/produc
 # My setup
 ![Astrophotography Kit](/assets/astro_kit.jpeg)
 
+This is the setup that I used to take the picture of the Andromeda galaxy. It is a relatively (to the hobby) cheap setup.
+
 # Long exposure, ISO, and camera settings
 These three sections are largely to do with DSLR cameras at they are what I use.
 
@@ -74,7 +76,7 @@ What ISO setting you use depends on how long your exposure is, there are some ad
 Exposure times again can be calculated using formulas based on lens, camera, and ISO setting but I honestly prefer to experiment on the night to see how long I can get away with before the stars start to blur or lose definition. I also take into account the amount of light getting into the image, Andromeda for example apear like a large swirl on a raw photo before being processed with a 10 minute exposure at ISO 800 (on my setup, others may vary depending on light pollution and equipment). My basic premise is that the longer exposure the more light data and therefore more detail you can pick out of the final image, especially colours.
 
 # Calibration frames
-Calibration frames are used when stacking to remove aberrations and cover for sensor defects, to a point.
+Calibration frames are used when stacking to remove aberrations and cover for sensor defects, to a point. They cannot fix grievous issues with the lens or sensor but for minor defects like a single pixel they can really help. This process probably does other calibration that I don’t know about with light levels or similar, I have not yet taken the time to properly research it.
 
 ## Dark frames
 Dark frames are taken when you do the shoot, they can be reused but its better not to keep them for too long, I reuse mine for at most 6 months then retake them to ensure they are still “current”. Dark frames ideally should be the same length of exposure you use for the rest of the session but taken with the lens cap on. The idea is that if there is a sensor issue these commonly show up as a different coloured pixel on the image so these frames can be used by the stacking software to remove those pixels by substituting them for other data where the camera was pointing at the target on a slightly different alignment.
