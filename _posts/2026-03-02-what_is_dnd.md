@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Is DND
-date: 2024-06-24 07:50
+date: 2026-03-02
 tags: [D&D, ttrpg]
 category: Dungeons and Dragons
 image:
