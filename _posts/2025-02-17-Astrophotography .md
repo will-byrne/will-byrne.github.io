@@ -3,7 +3,7 @@ layout: post
 title: Deep Space Object Astrophotography
 date: 2025-02-17
 tags: [Photography, Space]
-category: Hobbies
+category: Astrophotography
 image:
   path: assets/andromeda.jpeg
   alt: Andromeda galaxy

@@ -3,7 +3,7 @@ layout: post
 title: What Is DND
 date: 2026-03-02
 tags: [D&D, ttrpg]
-categories: [Hobbies, Dungeons and Dragons]
+categories: [Dungeons and Dragons]
 image:
   path: assets/dice.jpeg
   alt: “Big pile of polyhedral dice”
