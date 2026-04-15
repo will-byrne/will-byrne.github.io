@@ -67,3 +67,7 @@ As well as the [Future Tech to Try](#future-tech-to-try), I have tentative plans
 I would like to deploy these projects to a remote server somewhere on something like [Heroku](https://www.heroku.com/) or [Render](https://render.com/).
 The code is also mostly missing good test suites, and especially when I get the IAS up and running, I would like to add extensive e2e tests to the mix before any automated deployment.
 The clients and servers, as they currently stand, are very simple. It would be a much better test to add some more complex UX interaction to learn the technologies better and to possibly pull information in from more places in the server, possibly add something that searches for fan art of the pokémon (risky) or even add modals to show more of the pokémon stats and data.
+
+
+## Experiments
+I realied when I looked at my code that I never implemented the svelte-client. I have decided it will be a fun test to see if Copilot when instructed will be able to create something that matches the remix-client functionality. I will run this then report back here when its done with the results. I am not a Svelte developer and so will not be able to comment on the quality of the Svelte code. If it looks ok I may repeat the experiment and see how it fares reproducing the rust-server in Java.
