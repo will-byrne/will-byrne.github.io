@@ -9,7 +9,7 @@ image:
   alt: Andromeda galaxy
 ---
 
-I started astrophotography as a hobby in 2018 with a friend. We initially went out with just a DSLR and a tripod, and the images were a bit of a mess. It turns out it’s actually quite complicated to do. My gallery (of two pictures as of writing) can be found on [Telescopious](https://telescopius.com/)
+I started astrophotography as a hobby in 2018 with a friend. We initially went out with just a DSLR and a tripod, and the images were a bit of a mess. It turns out it’s actually quite complicated to do. My gallery (of two pictures as of writing) can be found on my [Telescopious](https://telescopius.com/) [Gallery](https://telescopius.com/profile/lunaaeterna)
 
 # Star trackers / mounts
 ## Why a mount is needed
