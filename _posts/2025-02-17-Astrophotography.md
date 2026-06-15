@@ -9,7 +9,7 @@ image:
   alt: Andromeda galaxy
 ---
 
-I started astrophotography as a hobby in 2018 with a friend. We initially went out with just a DSLR and a tripod, and the images were a bit of a mess. It turns out it’s actually quite complicated to do. My gallery (of two pictures as of writing) can be found on [Telescopious](https://telescopius.com/)
+I started astrophotography as a hobby in 2018 with a friend. We initially went out with just a DSLR and a tripod, and the images were a bit of a mess. It turns out it’s actually quite complicated to do. My gallery (of two pictures as of writing) can be found on my [Telescopious](https://telescopius.com/) [Gallery](https://telescopius.com/profile/lunaaeterna)
 
 # Star trackers / mounts
 ## Why a mount is needed
@@ -92,6 +92,8 @@ I have mentioned a few times in this post taking multiple shots at 10 minute exp
 Startools is a great piece of software written by an astrophotographer as a hobby project and a way for them to process their own images, It is free to try but you won't be able to save the result if you don’t have a license. I like the fact that it has a `bin` option which allows you to throw away a percentage of the data before processing, what I like doing is to bin 50-75% of the data, then process the image while keeping a log of what I have done and what settings that I have used, once I am happy with it I reload the image and then go through all of the steps which can take several minutes per one. 
 
 ## Basic workflow for Andromeda
+(TODO) This will be added when I find my notes from processing that image.
+
 ## Other tools
 While I love Startools, there are other tools available. Many people like to process their images using Adobe [Photoshop](https://www.adobe.com/uk/products/photoshop.html), [GIMP](https://www.gimp.org/), [Siril](https://siril.org/), [PixInsight](https://pixinsight.com/), and many more. Some of these tools can be quite expensive, like Photoshop and PixInsight whereas Siril and GIMP are free and open source. Of those mentioned Photoshop and GIMP are general image manipulation tools and the others are specifically created for the purpose of processing astrophotography images.
 
